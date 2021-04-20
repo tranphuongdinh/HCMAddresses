@@ -3007,7 +3007,7 @@ Binh My Ward
 Tan Phu Trung Ward
 Tan Thong Hoi Ward
 124
-VM80:44 An Nhon Tay
+An Nhon Tay
 Duong 101
 Le Thi Sieng
 Nhuan Duc
@@ -3636,5 +3636,3 @@ Phan Trong Tue
 De Ec
 Luong Van Nho
 Quang Xuyen
-
-
