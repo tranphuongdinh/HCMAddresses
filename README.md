@@ -6,4 +6,4 @@ Tên quận ->
   Số đường của quận đó ->
     Tên các đường**
     
-**file readFile.cpp là chương trình c++ để test file trên**
+**file readFile.cpp là chương trình C++ để test file trên**
