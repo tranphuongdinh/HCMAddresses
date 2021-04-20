@@ -1,9 +1,7 @@
 # HCMAddresses
-***
-horizonal rules
-**File hcmAddresses.txt có cấu trúc như sau:(space, space)
-Tên quận(space, space)
-  Số phường của quận đó(space, space)
-    Tên các phường(space, space)
-  Số đường của quận đó(space, space)
+**File hcmAddresses.txt có cấu trúc như sau:
+Tên quận ->
+  Số phường của quận đó ->
+    Tên các phường ->
+  Số đường của quận đó ->
     Tên các đường**
