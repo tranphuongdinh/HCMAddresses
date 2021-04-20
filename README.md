@@ -5,3 +5,5 @@ Tên quận ->
     Tên các phường ->
   Số đường của quận đó ->
     Tên các đường**
+    
+**file readFile.cpp là chương trình c++ để test file trên**
