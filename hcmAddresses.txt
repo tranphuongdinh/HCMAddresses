@@ -1,0 +1,3640 @@
+24
+District 1
+10
+Ben Nghe Ward
+Ben Thanh Ward
+Cau Kho Ward
+Cau Ong Lanh Ward
+Co Giang Ward
+Da Kao Ward
+Nguyen Cu Trinh Ward
+Nguyen Thai Binh Ward
+Pham Ngu Lao Ward
+Tan Dinh Ward
+146
+Alexandre de Rhodes
+Huyen Quang
+Nguyen Hau
+Phan Ke Binh
+Ba le Chan
+Huyen Chan Cong Chua
+Nguyen Hue
+Phan Liem
+Ben Chuong Duong
+Huynh Khuong Ninh
+Nguyen Huu Canh
+Phan Ngu
+Bui Thi Xuan
+Huynh Thuc Khang
+Nguyen Huu Cau
+Phan Ton
+Bui Vien
+Khanh Hoi
+Nguyen Huy Tu
+Phan Van Dat
+Cach Manh Thanh 8
+Ky Con
+Nguyen Khac Nhu
+Phan Van Truong
+Calmette
+Le Anh Xuan
+Nguyen Phi Khanh
+Pho Duc Chinh
+Cao Ba Nha
+Le Cong Kieu
+Nguyen Sieu
+Phung Khac Khoan
+Cao Ba Quat
+Le Duan
+Nguyen Thai Binh
+Suong Nguyet Anh
+Cay Diep
+Le Lai
+Nguyen Thai Hoc
+Thach Thi Thanh
+Chu Manh Chinh
+Le Loi
+Nguyen Thanh Y
+Thai Van Lung
+Co Bac
+Le Thanh Ton
+Nguyen Thi Luu
+Thi Sach
+Co Giang
+Le Thi Hong Gam
+Nguyen Thi Minh Khai
+Thu Khoa Huan
+Cong Quynh
+Le Thi Rieng
+Nguyen Thi Nghia
+Ton Duc Thang
+Cong Truong Lam Son
+Le Van Huu
+Nguyen Thien Thuat
+Ton That Dam
+Cong Truong Me Linh
+Luong Huu Khanh
+Nguyen Thiep
+Ton That Thiep
+Cong Truong Paris
+Luu Van Lang
+Nguyen Trai
+Ton That Tung
+Dang Dung
+Ly Chien Thang
+Nguyen Trung Ngan
+Tran Cao Van
+Dang Tat
+Ly Thai To
+Nguyen Trung Truc
+Tran Dinh Xu
+Dang Thi Nhu
+Ly Van Phuc
+Nguyen Van Binh
+Tran Doan Khanh
+Dang Tran Con
+Ma Lo
+Nguyen Van Chiem
+Tran Hung Dao
+De Tham
+Mac Dinh Chi
+Nguyen Van Cu
+Tran Khac Chan
+Dien Bien Phu
+Mac Thi Buoi
+Nguyen Van Duom
+Tran Khanh Du
+Dinh Cong Tranh
+Mai Thi Luu
+Nguyen Van Giai
+Tran Nhat Duat
+Dinh Tien Hoang
+Nam Ky Khoi Nghia
+Nguyen Van Nghia
+Tran Quang Khai
+Do Quang Dau
+Nam Quoc Cang
+Nguyen Van Nguyen
+Tran Quoc Toan
+Dong Du
+Ngo Duc Ke
+Nguyen Van Nguyen
+Tran Quy Khoach
+Dong Khoi
+Ngo Quyen
+Nguyen Van Thu
+Trinh Van Can
+Hai Ba Trung
+Ngo Van Nam
+Nguyen Van Trang
+Trinh Van Can
+Hai Trieu
+Nguyen An Ninh
+Nguyen Van Troi
+Truong Dinh
+Ham Nghi
+Nguyen Binh Khiem
+Pastuer
+Truong Han Sieu
+Han Thuyen
+Nguyen Canh Chan
+Pham Hong Thai
+Vo Thi Sau
+Ho Hao Hon
+Nguyen Cong Chu
+Pham Ngoc Thach
+Vo Van Kiet
+Ho Huan Nghiep
+Nguyen Cu Trinh
+Pham Ngu Lao
+Vo Van Tan
+Ho Tung Mau
+Nguyen Cuu Van
+Pham Viet Chanh
+Yersin
+Hoa My
+Nguyen Dinh Chieu
+Phan Boi Chau
+Hoang Sa
+Nguyen Du
+Phan Chu Chinh
+District 12
+11
+An Phu Dong Ward
+Dong Hung Thuan Ward
+Hiep Thanh Ward
+Tan Chanh Hiep Ward
+Tan Hung Thuan Ward
+Tan Thoi Hiep Ward
+Tan Thoi Nhat Ward
+Thanh Loc Ward
+Thanh Xuan Ward
+Thoi An Ward
+Trung My Tay Ward
+233
+An Loc
+Duong HT 48
+Nguyen Van Qua
+Thanh Loc 29
+An Phu Dong
+Duong HT 49
+Phan Van Hon
+Thanh Loc 30
+An Phu Dong 1
+Duong HT02
+Quan Tre
+Thanh Loc 31
+An Phu Dong 25
+Duong so 13
+Quang Trung
+Thanh Loc 37
+An Phu Dong 27
+Duong so 17
+Quoc Lo 1A
+Thanh Loc 41
+An Phu Dong 3
+Duong so 30
+Quoc Lo 22
+Thanh Loc 50
+An Phu Dong 9
+Duong so 42
+Song Hanh
+Thanh Loc 54
+Bui Cong Trung
+Duong so 5
+Song Hanh Quoc Lo 22
+Thanh Xuan 13
+Bui Van Ngu
+Duong so 7
+Tan Chanh Hiep
+Thanh Xuan 14
+Cao toc Xuyen A
+Duong T12
+Tan Chanh Hiep 03
+Thanh Xuan 16
+Cau Lo Heo
+Duong T15
+Tan Chanh Hiep 05
+Thanh Xuan 22
+Dinh Giao Khau
+Duong TX 18
+Tan Chanh Hiep 07
+Thanh Xuan 25
+Do Quyen
+Duong TX 21
+Tan Chanh Hiep 08
+Thanh Xuan 38
+Dong Bac
+Duong TX 22
+Tan Chanh Hiep 10
+Thanh Xuan 52
+Dong Hung Thuan
+Duong TX 24
+Tan Chanh Hiep 13
+Thoi An
+Dong Hung Thuan 02
+Duong TX 25
+Tan Chanh Hiep 16
+Thoi An 09
+Dong Hung Thuan 03
+Duong TX 31
+Tan Chanh Hiep 17
+Thoi An 10
+Dong Hung Thuan 05
+Duong TX 43
+Tan Chanh Hiep 18
+Thoi An 11
+Dong Hung Thuan 10
+Duong TX 48
+Tan Chanh Hiep 21
+Thoi An 12
+Dong Hung Thuan 10B
+Giang Cu Vong
+Tan Chanh Hiep 24
+Thoi An 13
+Dong Hung Thuan 11
+Giang Huong
+Tan Chanh Hiep 25
+Thoi An 15
+Dong Hung Thuan 12
+Ha Chuong
+Tan Chanh Hiep 33
+Thoi An 16
+Dong Hung Thuan 14
+Ha Dac
+Tan Chanh Hiep 34
+Thoi An 18
+Dong Hung Thuan 17
+Ha Huy Giap
+Tan Chanh Hiep 35
+Thoi An 19
+Dong Hung Thuan 2
+Hiep Thanh
+Tan Chanh Hiep 36
+Thoi An 20
+Dong Hung Thuan 21
+Hiep Thanh 05
+Tan Chanh Hiep 5
+Thoi An 21
+Dong Hung Thuan 3
+Hiep Thanh 06
+Tan Thoi Hiep
+Thoi An 32
+Dong Hung Thuan 30
+Hiep Thanh 10
+Tan Thoi Hiep 1
+Thoi An 35
+Dong Hung Thuan 32
+Hiep Thanh 12
+Tan Thoi Hiep 10
+Thoi An 4
+Dong Hung Thuan 42
+Hiep Thanh 13
+Tan Thoi Hiep 13
+Thoi An 5
+Dong Hung Thuan 45
+Hiep Thanh 17
+Tan Thoi Hiep 15
+Thoi An 6
+Dong Hung Thuan 5
+Hiep Thanh 18
+Tan Thoi Hiep 17
+Thoi Tam Thon 12
+Dong Hung Thuan 6
+Hiep Thanh 19
+Tan Thoi Hiep 2
+Tinh Lo 14
+Dong Hung Thuan 9
+Hiep Thanh 22
+Tan Thoi Hiep 20
+Tinh Lo 15
+Duong  HT 5
+Hiep Thanh 23
+Tan Thoi Hiep 21
+Tinh Lo 17
+Duong 02
+Hiep Thanh 26
+Tan Thoi Hiep 22
+Tinh lo 28
+Duong DD11
+Hiep Thanh 27
+Tan Thoi Hiep 6
+Tinh Lo 29
+Duong DD12
+Hiep Thanh 31
+Tan Thoi Hiep 7
+Tinh Lo 31
+Duong DD4
+Hiep Thanh 33
+Tan Thoi Nhat
+TL 16
+Duong DD5
+Hiep Thanh 37
+Tan Thoi Nhat 09
+TL 27
+Duong DHT 10B
+Hiep Thanh 39
+Tan Thoi Nhat 1
+TMT 09
+Duong DHT 45
+Hiep Thanh 42
+Tan Thoi Nhat 11
+To Ky
+Duong DN 10
+Hiep Thanh 44
+Tan Thoi Nhat 12
+To Ngoc Van
+Duong DT 1 2
+Hiep Thanh 5
+Tan Thoi Nhat 13
+Trung My Tay
+Duong HT 13
+Hiep Thanh 6
+Tan Thoi Nhat 17
+Trung My Tay 05
+Duong HT 17
+Huong Lo 80B
+Tan Thoi Nhat 2
+Trung My Tay 08
+Duong HT 18
+Huynh Thi Hai
+Tan Thoi Nhat 21
+Trung My Tay 1
+Duong HT 22
+Lam Thi Ho
+Tan Thoi Nhat 4
+Trung My Tay 12
+Duong HT 23
+Le Duc Tho
+Tan Thoi Nhat 5
+Trung My Tay 13
+Duong HT 26
+Le Thi Rieng
+Tan Thoi Nhat 6
+Trung My Tay 18A
+Duong HT 27
+Le Van Khuong
+Tan Thoi Nhat 8
+Trung My Tay 2A
+Duong HT 31
+Lien Phuong
+TCH 22
+Trung My Tay 5
+Duong HT 32
+Nguyen An Ninh
+Thanh Loc 14
+Trung My Tay 6A
+Duong HT 35
+Nguyen Anh Thu
+Thanh Loc 15
+Trung My Tay 9A
+Duong HT 37
+Nguyen Huu Tho
+Thanh Loc 16
+Truong Chinh
+Duong HT 39
+Nguyen Thanh Vinh
+Thanh Loc 17
+Vuon Lai
+Duong HT 44
+Nguyen Thi Trang
+Thanh Loc 18
+Duong HT 45
+Nguyen Van Giap
+Thanh Loc 19
+Duong HT 47
+Nguyen Van Luong
+Thanh Loc 26
+District Thu Duc
+12
+Binh Chieu Ward
+Binh Tho Ward
+Hiep Binh Chanh Ward
+Hiep Binh Phuoc Ward
+Linh Chieu Ward
+Linh Dong Ward
+Linh Tay Ward
+Linh Trung Ward
+Linh Xuan Ward
+Tam Binh Ward
+Tam Phu Ward
+Truong Tho Ward
+130
+Ba Giang
+Duong so 24
+Duong so 6
+Nguyen Khuyen
+Bac Ai
+Duong so 25
+Duong so 7
+Nguyen Van Ba
+Binh Chieu
+Duong so 26
+Duong so 8
+Nguyen Van Lich
+Binh Phu
+Duong so 27
+Duong so 9
+Pham Van Dong
+Boi Hoan
+Duong so 28
+Duong Van Cam
+Phu Chau
+Cay Keo
+Duong so 29
+Einstein
+Phuong Vi
+Chan Ly
+Duong so 3
+Go Dua
+Quoc Lo 13
+Chu Manh Trinh
+Duong so 30
+Han Thuyen
+Quoc Lo 1A
+Chuong Duong
+Duong so 31
+Hiep Binh
+Quoc Lo 1K
+Cong Ly
+Duong so 32
+Ho Van Tu
+Quy Duc
+Dan Chu
+Duong so 33
+Hoa Binh
+Rach Lung
+Dang Thi Ranh
+Duong so 34
+Hoang Dieu
+Tam Binh
+Dang Van Bi
+Duong so 35
+Hoang Dieu 2
+Tam Chau
+Dao Trinh Nhat
+Duong so 36
+Hong Duc
+Tam Ha
+Doan Cong Hon
+Duong so 37
+Huu Nghi
+Tam Tam Xa
+Doan Ket
+Duong so 38
+Kha Van Can
+Thong Nhat
+Duong so 1
+Duong so 39
+Khong Tu
+Tinh lo 42
+Duong so 10
+Duong so 4
+Khu lang Dai Hoc
+Tinh lo 43
+Duong so 11
+Duong so 40
+Lam Son
+Tinh Lo 44
+Duong so 12
+Duong so 41
+Le Quy Don
+To Ngoc Van
+Duong so 13
+Duong so 42
+Le Thi Hoa
+To Vinh Dien
+Duong so 14
+Duong so 43
+Le Van Chi
+Tran Van Nua
+Duong so 147
+Duong so 44
+Le Van Ninh
+Trinh Phong Dan
+Duong so 15
+Duong so 45
+Le Van Tach
+Truong Tho
+Duong so 16
+Duong so 46
+Linh Dong
+Truong Tre
+Duong so 17
+Duong so 47
+Linh Trung
+Truong Van Ngu
+Duong so 18
+Duong so 48
+Linh Xuan
+U Ghe
+Duong so 19
+Duong so 49
+Luong Khai Sieu
+Vo Tien Su
+Duong so 2
+Duong so 5
+Ly Te Xuyen
+Vo Van Ngan
+Duong so 20
+Duong so 50
+Ngo Chi Quoc
+Xa Lo Ha Noi
+Duong so 21
+Duong so 51
+Nguyen An Ninh
+Xuan Hiep
+Duong so 22
+Duong so 52
+Nguyen Ba Luat
+Duong so 23
+Duong so 53
+Nguyen Cong Tru
+District 9
+13
+Long Binh Ward
+Long Thanh My Ward
+Tan Phu Ward
+Hiep Phu Ward
+Tang Nhon Phu A Ward
+Tang Nhon Phu B Ward
+Phuoc Long A Ward
+Phuoc Long B Ward
+Truong Thanh Ward
+Long Phuoc Ward
+Long Truong Ward
+Phuoc Binh Ward
+Phu Huu Ward
+178
+An Thien Ly
+Duong so 168
+Duong so 5
+Long Thuan
+Bach Khoa
+Duong so 17
+Duong so 5A
+Mac Hien Tich
+Bui Quoc Khai
+Duong so 176
+Duong so 6
+Man Thien
+Bui Xuong Trach
+Duong so 179
+Duong so 61
+Nam Cao
+Bung Ong Thoan
+Duong so 18
+Duong so 623
+Nam Hoa
+Bung Sau Xa
+Duong so 182
+Duong so 671
+Nam Long
+Cau Dinh
+Duong so 185
+Duong so 68
+Ngo Quyen
+Cau xay
+Duong so 18A
+Duong so 6A
+Nguyen Cong Tru
+Cau Xay 1
+Duong so 18B
+Duong so 6B
+Nguyen Duy Trinh
+Cau xay 2
+Duong so 197
+Duong so 6C
+Nguyen Thai Hoc
+Chau Phuc cam
+Duong so 2
+Duong so 6D
+Nguyen Thi Dinh
+Co Bac
+Duong so 20
+Duong so 7
+Nguyen Van Tang
+Dai Lo 2
+Duong so 207
+Duong so 74
+Nguyen Van Thanh
+Dai lo 3
+Duong so 21
+Duong so 79
+Nguyen Xien
+Dan Chu
+Duong so 210
+Duong so 8
+Nha Thieu Nhi
+Dinh Cung Vien
+Duong so 212
+Duong so 85
+Phan Chu Trinh
+Dinh Phong Phu
+Duong so 215
+Duong so 882
+Phan Dat Duc
+Do The Dien
+Duong so 22
+Duong so 885
+Phan Dinh Phung
+Do Xuan Hop
+Duong so 228
+Duong so 898
+Phuoc Huu
+Duong 816
+Duong so 23
+Duong so 9
+Phuoc Thien
+Duong D1
+Duong so 236
+Duong so 904
+Quang Trung
+Duong D2
+Duong so 24
+Duong so 990
+Quoc Lo 50
+Duong D3
+Duong so 245
+Go Cat
+Tam Da
+Duong D400
+Duong so 25
+Go Noi
+Tan Da
+Duong Dinh Hoi
+Duong so 265
+Ha Phu Huu
+Tan Hoa II
+Duong N7
+Duong so 27
+Hai Ba Trung
+Tan Lap I
+Duong so 1
+Duong so 275
+Hang Tre
+Tan Lap II
+Duong so 10
+Duong so 29
+Ho Ba Phan
+Tang Nhon Phu
+Duong so 100
+Duong so 297
+Hoang Huu Nam
+Tay Hoa
+Duong so 102
+Duong so 3
+Hong Sen
+Thuy Loi
+Duong so 106
+Duong so 30
+Huynh Thuc Khang
+To 1
+Duong so 109
+Duong so 311
+Ich Thanh
+Tran Hung Dao
+Duong so 11
+Duong so 33
+Khong Tu
+Tran Quoc Toan
+Duong so 12
+Duong so 339
+La Xuan Oai
+Tran Trong Khiem
+Duong so 120
+Duong so 359
+Lac Thien
+Trinh Hoai Duc
+Duong so 12E
+Duong so 379
+Lang Tang Phu
+Truong Hanh
+Duong so 13
+Duong so 385
+Le Loi
+Truong Luu
+Duong so 138
+Duong so 4
+Le Van Thinh
+Truong Van Hai
+Duong so 14
+Duong so 400
+Le Van Viet
+Truong Van Thanh
+Duong so 144
+Duong so 442
+Lien Phuong
+Tu Xuong
+Duong so 147
+Duong So 449
+Lien Phuong Phu Huu
+Vo Tien Su
+Duong so 15
+Duong so 475
+Lo Lu
+Vo Van Hat
+Duong so 154
+Duong so 48
+Long Phuoc
+Xa Lo Ha Noi
+Duong so 16
+Duong so 49
+Long Son
+Duong so 160
+Duong so 494
+Long Thanh
+District Go Vap
+16
+01 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+16 Ward
+17 Ward
+111
+An Hoi
+Duong so 30
+Huynh Van Nghe
+Nguyen Van Nghi
+An Nhon
+Duong so 31
+Le Duc Tho
+Pham Huy Thong
+Bui Quang La
+Duong so 32
+Le Hoang Phai
+Pham Ngu Lao
+Cay Tram
+Duong so 35
+Le Lai
+Pham Van Bach
+Do Thuc Tinh
+Duong so 38
+Le Loi
+Pham Van Chieu
+Duong 26 Thang 3
+Duong so 4
+Le Quang Dinh
+Pham Van Dong
+Duong Quang Ham
+Duong so 43
+Le Thi Hong
+Phan Huy Ich
+Duong so 1
+Duong so 45
+Le Van Tho
+Phan Van Tri
+Duong so 10
+Duong so 46
+Le Van Tri
+Phung Van Cung
+Duong so 11
+Duong so 47
+Luong Ngoc Quyen
+Quang Trung
+Duong so 12
+Duong so 5
+Ly Thuong Kiet
+Tan Son
+Duong so 13
+Duong so 50
+Nguyen Binh Khiem
+Tan Tho
+Duong so 14
+Duong so 51
+Nguyen Du
+Thich Buu Dang
+Duong so 15
+Duong so 53
+Nguyen Duy Cung
+Thien Ho Duong
+Duong so 17
+Duong so 55
+Nguyen Hong
+Thong Nhat
+Duong so 18
+Duong So 56
+Nguyen Huu Tho
+Thong Tay Hoi
+Duong so 19
+Duong so 57
+Nguyen Huy Dien
+To Ngoc Van
+Duong so 2
+Duong so 58
+Nguyen Kiem
+Tran Ba Giao
+Duong so 20
+Duong so 59
+Nguyen Oanh
+Tran Binh Trong
+Duong so 21
+Duong so 6
+Nguyen Thai Son
+Tran Phu Cuong
+Duong so 22
+Duong so 7
+Nguyen Thi Nho
+Tran Quoc Tuan
+Duong so 23
+Duong so 8
+Nguyen Thuong Hien
+Tran Thi Nghi
+Duong so 24
+Duong so 9
+Nguyen Tu Gian
+Trung Nu Vuong
+Duong so 25
+Hanh Thong
+Nguyen Tuan
+Truong Dang Que
+Duong so 27
+Hanh Thong Tay
+Nguyen Van Bao
+Truong Minh Giang
+Duong so 28
+Hoang Hoa Tham
+Nguyen Van Cong
+Truong Minh Ky
+Duong so 29
+Hoang Minh Giam
+Nguyen Van Dung
+Tu Mo
+Duong so 3
+Huynh Khuong An
+Nguyen Van Luong
+District Binh Thanh
+20
+01 Ward
+02 Ward
+03 Ward
+05 Ward
+06 Ward
+07 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+17 Ward
+19 Ward
+21 Ward
+22 Ward
+24 Ward
+25 Ward
+26 Ward
+27 Ward
+28 Ward
+122
+Bac Binh
+Duong so 5
+Nguyen Cong Tru
+Phan Van Han
+Bach Dang
+Duong so 6
+Nguyen Cuu Van
+Phan Van Tri
+Binh Loi
+Duong so 8
+Nguyen Duy
+Phan Xich Long
+Binh Quoi
+Duong so 82
+Nguyen Hong
+Pho Duc Chinh
+Bui Dinh Tuy
+Duong Truc
+Nguyen Huu Canh
+Phu My
+Bui Huu Nghia
+Ho Xuan Huong
+Nguyen Huy Luong
+Quoc Lo 13
+Chu Van An
+Hoang Hoa Tham
+Nguyen Huy Tuong
+Tam Vu
+Cong Truong Hoa Binh
+Hong Bang
+Nguyen Khuyen
+Tang Bat Ho
+Cong Truong Tu Do
+Huynh Dinh Hai
+Nguyen Kiem
+Thanh Da
+Cuu Long
+Huynh Khuong An
+Nguyen Lam
+Thien Ho Duong
+Dien Bien Phu
+Huynh Man Dat
+Nguyen Ngoc Phuong
+Tran Binh Trong
+Dien Hong
+Huynh Ta Bang
+Nguyen Thai Hoc
+Tran Ke Xuong
+Dinh Bo Linh
+Huynh Thuc Khang
+Nguyen Thai Son
+Tran Quoc Tuan
+Dinh Tien Hoang
+Huynh Tinh Cua
+Nguyen Thi Tu
+Tran Quy Cap
+Dong Da
+Lai Thieu
+Nguyen Thien Thuat
+Tran Van Ky
+Duong D1
+Lam Son
+Nguyen Thuong Hien
+Trinh Hoai Duc
+Duong D2
+Le Hoang Phai
+Nguyen Trong Tuyen
+Truc 30m
+Duong D3
+Le Loi
+Nguyen Trung Truc
+Truong Sa
+Duong D4
+Le Quang Dinh
+Nguyen Van Dau
+Ung Van Khiem
+Duong D5
+Le Truc
+Nguyen Van Lac
+Van Kiep
+Duong so 1
+Le Tu Tai
+Nguyen Xi
+Van Thanh Bac
+Duong so 10
+Luong Ngoc Quyen
+Nguyen Xuan On
+Vo Duy Ninh
+Duong so 12AB
+Mai Xuan Thuong
+No Trang Long
+Vo Thanh Trang
+Duong so 14
+Me Linh
+Pham Van Dong
+Vo Truong Toan
+Duong so 16
+Mieu Noi
+Pham van hai
+Vu Huy Tan
+Duong so 18
+Ngo Duc Ke
+Pham Viet Chanh
+Vu Ngoc Phan
+Duong so 2
+Ngo Nhan Tinh
+Phan Boi Chau
+Vu Tung
+Duong so 3
+Ngo Tat To
+Phan Chu Trinh
+Xo Viet Nghe Tinh
+Duong so 304
+Nguyen An Ninh
+Phan Dang Luu
+Yen Do
+Duong so 4
+Nguyen Binh Khiem
+Phan Dinh Phung
+Duong so 48
+Nguyen Cong Hoan
+Phan Huy On
+District Tan Binh
+15
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+250
+Ap Bac
+Duong C18
+Luong The Vinh
+Song Day
+Au Co
+Duong C2
+Luu Nhan Chu
+Song Nhue
+Ba Gia
+Duong C22
+Ly Thuong Kiet
+Song Thao
+Ba Van
+Duong C27
+Mai Lao Bang
+Song Thuong
+Ba Vi
+Duong C3
+Nam Chau
+Tan Canh
+Bac Hai
+Duong D10
+Nghia Hoa
+Tan Chau
+Bach Dang
+Duong D50
+Nghia Hung
+Tan Hai
+Bach Dang 1
+Duong D51
+Nghia Phat
+Tan Khai
+Bach Dang 2
+Duong D52
+Ngo Be
+Tan Ky Tan Quy
+Bach Ma
+Duong so 1
+Ngo Thi Thu Minh
+Tan Lap
+Banh Van Tran
+Duong so 175
+Ngu Binh
+Tan Phuoc
+Bau Bang
+Duong so 2
+Nguyen Ba Tong
+Tan Son
+Bau Cat
+Duong so 3
+Nguyen Ba Tuyen
+Tan Son Hoa
+Bau Cat 1
+Duong so 4
+Nguyen Bac
+Tan Son Nhi
+Bau cat 2
+Duong so 5
+Nguyen Canh Di
+Tan Tao
+Bau Cat 3
+Duong so 6
+Nguyen Chanh Sat
+Tan Tho
+Bau Cat 4
+Duong so 7
+Nguyen Dinh Khoi
+Tan Tien
+Bau Cat 5
+Duong Van Duong
+Nguyen Duc Thuan
+Tan Trang
+Bau Cat 6
+Duong Van Nga
+Nguyen Hien Le
+Tan Tru
+Bau Cat 7
+Duy Tan
+Nguyen Hong Dao
+Tan Vien
+Bau Cat 8
+Giai Phong
+Nguyen Minh Hoang
+Tan Xuan
+Bau Cat 9
+Go Cam Dem
+Nguyen Phuc Chu
+Thai Thi Nhan
+Bau Cat Doi
+Go Dau
+Nguyen Quang Bich
+Than Nhan Trung
+Bay Hien
+Ha Ba Tuong
+Nguyen Son
+Thang Long
+Be Van Dan
+Hat Giang
+Nguyen Sy Sach
+Thanh My
+Ben Cat
+Hau Giang
+Nguyen Thai Binh
+Thep Moi
+Binh Gia
+Hiep Nhat
+Nguyen Thanh Tuyen
+Thich Minh Nguyet
+Bui The My
+Ho Dac Di
+Nguyen The Loc
+Thien Phuoc
+Bui Thi Xuan
+Hoa Binh
+Nguyen Thi Nho
+Thu Khoa Huan
+Bui Tu Toan
+Hoa Hiep
+Nguyen Trong Loi
+Tien Giang
+Ca Van Thinh
+Hoang Bat Dat
+Nguyen Trong Tuyen
+Tong Van Hen
+Cach Mang Thang 8
+Hoang Hoa Tham
+Nguyen Tu Nha
+Tra Khuc
+Cau Cong Lo
+Hoang Ke Viem
+Nguyen Van Mai
+Tran Dinh Trong
+Chan Hung
+Hoang Sa
+Nguyen Van Troi
+Tran Mai Ninh
+Chau Vinh Te
+Hoang Van Thu
+Nguyen Van Vi
+Tran Quoc Hoan
+Chi Cong
+Hoang Viet
+Nguyen Van Vinh
+Tran Thai Tong
+Chi Linh
+Hong Ha
+Nguyen Xuan Khoat
+Tran Thanh Tong
+Chu Dong Tu
+Hong Lac
+Nhat Chi Mai
+Tran Trieu Luat
+Cong Hoa
+Hung Hoa
+Ni Su Huynh Lien
+Tran Van Dang
+Cong Lo
+Huong lo 2
+Nui Thanh
+Tran Van Danh
+Cu Chinh Lan
+Huynh Lan Khanh
+Pham Cu Luong
+Tran Van Du
+Cuu Long
+Huynh Tinh Cua
+Pham Hong Thai
+Tran Van Hoang
+Dai Nghia
+Huynh Van Nghe
+Pham Phu Thu
+Tran Van Quang
+Dan Tri
+Kenh Nhieu Loc
+Pham Van Bach
+Trinh Dinh Thao
+Dang Lo
+Khai Quang
+Pham van hai
+Trung Lang
+Dang Minh Tru
+Khai Tri
+Phan Anh
+Truong Chinh
+Dat Thanh
+Khuong Viet
+Phan Ba Phien
+Truong Cong Dinh
+Dinh Dien
+Lac Long Quan
+Phan Dinh Giot
+Truong Hoang Thanh
+Do Son
+Lam Son
+Phan Huy Ich
+Truong Sa
+Doc Bo Kenh Nhieu Loc
+Le Binh
+Phan Sao Nam
+Truong Son
+Dong Da
+Le Duy Nhuan
+Phan Thuc Duyen
+Tu Cuong
+Dong Den
+Le Lai
+Phan Van Lau
+Tu Hai
+Dong Ho
+Le Loi
+Phan Van Suu
+Tu Lap
+Dong Khoi
+Le Minh Xuan
+Pho Quang
+Ut Tich
+Dong Nai
+Le Ngan
+Phu Hoa
+Van Chung
+Dong Son
+Le Tan Quoc
+Phu Loc
+Van Coi
+Dong Xoai
+Le Trong Tan
+Quach Van Tuan
+Vo Thanh Trang
+Duong 27 Thang 3
+Le Trung Nghia
+Quang Hien
+Vuon Lan
+Duong A4
+Le Van Huan
+Sam Son
+Xuan Dieu
+Duong B1
+Le Van Sy
+Sao Mai
+Xuan Hong
+Duong B6
+Loc Hung
+Son Cang
+Yen The
+Duong C1
+Loc Vinh
+Son Hung
+Duong C12
+Long Hung
+Song Da
+District Tan Phu
+11
+Tan Son Nhi Ward
+Tan Thanh Ward
+Son Ki Ward
+Tan Quy Ward
+Tan Thanh Ward
+Phu Tho Hoa Ward
+Phu Thanh Ward
+Phu Trung Ward
+Hoa Thanh Ward
+Hiep Tan Ward
+Tan Thoi Hoa Ward
+247
+Au Co
+Duong CN13
+Khuong Viet
+Nguyen Van Ngoc
+Au Duong Lan
+Duong CN6
+Le Canh Tuan
+Nguyen Van Sang
+Bac Ai
+Duong D10
+Le Cao Lang
+Nguyen Van To
+Binh Long
+Duong D11
+Le Dai
+Nguyen Van Vinh
+Bo Bao Tan Thang
+Duong D12
+Le Dinh Tham
+Nguyen Xuan Khoat
+Bui Cam Ho
+Duong D13
+Le Dinh Thu
+Pham Ngoc
+Bui The My
+Duong D14A
+Le Khoi
+Pham Quy Thich
+Bui Xuan Phai
+Duong D14B
+Le Lam
+Pham Van
+Cach Mang
+Duong D15
+Le Lang
+Pham Van Xao
+Cach Mang Thang 8
+Duong D16
+Le Lieu
+Phan Anh
+Cao the
+Duong D9
+Le Lo
+Phan Chu Trinh
+Cao Van ngoc
+Duong DC1
+Le Lu
+Phan Dinh Phung
+Cau Xeo
+Duong DC11
+Le Nga
+Phan Van Nam
+Cay Keo
+Duong DC13
+Le Niem
+Pho Cho
+Chan Ly
+Duong DC3
+Le Quang Chieu
+Phu Tho Hoa
+Che Lan Vien
+Duong DC4
+Le Quoc Trinh
+Phung Chi Kien
+Chu Thien
+Duong DC5
+Le Sao
+Quach Dinh Bao
+Chu Van An
+Duong DC7
+Le Sat
+Quach Huu Nghiem
+Cong Hoa 3
+Duong DC9
+Le Than
+Quach Vu
+Dam Than Huy
+Duong Duc Hien
+Le Thiet
+Son Ky
+Dan Chu
+Duong Kenh 19 5
+Le Thuc Hoach
+Tan Huong
+Dan Toc
+Duong Khue
+Le Trong Tan
+Tan Ky Tan Quy
+Dien Cao The
+Duong M5
+Le Truc
+Tan Quy
+Diep Minh Chau
+Duong S1
+Le Trung Dinh
+Tan Son Nhi
+Dinh Liet
+Duong S11
+Le Van Phan
+Tan Thanh
+Do Bi
+Duong S3
+Le Vinh Hoa
+Tay Son
+Do Cong Tuong
+Duong S5
+Luong Dac Bang
+Tay Thanh
+Do Doc Chan
+Duong S7
+Luong Minh Nguyet
+Thach Lam
+Do Doc Loc
+Duong S9
+Luong The Vinh
+Tham My
+Do Doc Long
+Duong so 1
+Luong Truc Dam
+Thanh Cong
+Do Doc Thu
+Duong so 18
+Luu Chi Hieu
+Thoai Ngoc Hau
+Do Duc Duc
+Duong so 19
+Luy Ban Bich
+Thong Nhat
+Do Nhuan
+Duong so 2
+Ly Thai Tong
+to 46
+Do Thi Tam
+Duong so 27
+Ly Thanh Tong
+To 48
+Do Thua Luong
+Duong T1
+Ly Tue
+To Hieu
+Do Thua Tu
+Duong T4A
+Ngo Quyen
+Tran Dinh Trong
+Doan Gioi
+Duong T4B
+Nguyen Ba Tong
+Tran Hung Dao
+Doan Hong Phuoc
+Duong T5
+Nguyen Chich
+Tran Quang Co
+Doan Ket
+Duong T6
+Nguyen Cuu Dam
+Tran Tan
+Doc Lap
+Duong T8
+Nguyen Cuu Phu
+Tran Thu Do
+Duong 30 Thang 4
+Duong Thieu Tuoc
+Nguyen Do Cung
+Tran Van Can
+Duong B
+Duong Van Duong
+Nguyen Du
+Tran Van Giap
+Duong B2
+Go Dau
+Nguyen Hao Vinh
+Tran Van On
+Duong B3
+Go Xoai
+Nguyen Hau
+Trinh Dinh Thao
+Duong C1
+Han Mac Tu
+Nguyen Huu Dat
+Trinh Dinh Trong
+Duong C4
+Hien Vuong
+Nguyen Huu Tien
+Trinh Loi
+Duong C4A
+Ho Dac Di
+Nguyen Lo Trach
+Truong Chinh
+Duong C5
+Ho Ngoc Can
+Nguyen Ly
+Truong Van Linh
+Duong C6
+Hoa Bang
+Nguyen Minh Chau
+Truong Vinh Ky
+Duong C6A
+Hoa Binh
+Nguyen My Ca
+Tu Do
+Duong C7
+Hoang Ngoc Phach
+Nguyen Ngoc Nhut
+Tu do 1
+Duong C8
+Hoang Thieu Hoa
+Nguyen Nhu Lam
+Tu Quyet
+Duong CC1
+Hoang Van Hoe
+Nguyen Quang Dieu
+Van Cao
+Duong CC2
+Hoang Xuan Nhi
+Nguyen Quy Anh
+Van Hanh
+Duong CC3
+Huong lo 3
+Nguyen Son
+Vo Hoanh
+Duong CC4
+Huynh Thien Loc
+Nguyen Suy
+Vo Van Dung
+Duong CC5
+Huynh Van Chinh
+Nguyen Thai Hoc
+Vu Trong Phung
+Duong CN 11
+Huynh Van Mot
+Nguyen The Truyen
+Vuon Lai
+Duong CN 13
+Ich Thien
+Nguyen Thien Lau
+Y Lan
+Duong CN 6
+Kenh 19 Thang 5
+Nguyen Truong To
+Yen Do
+Duong CN1
+Kenh Nuoc Den
+Nguyen Uan Sang
+Nguyen Van Huyen
+Duong CN11
+Kenh Tan Hoa
+Nguyen Van Duong
+District Phu Nhuan
+15
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+17 Ward
+60
+Bach Dang
+Hoa Hue
+Mai Van Ngoc
+Phan Dinh Phung
+Cao Thang
+Hoa Lan
+Mai Van Nguyen
+Phan Tay Ho
+Cam Ba Thuoc
+Hoa Mai
+Nguyen Cong Hoan
+Phan Xich Long
+Co Bac
+Hoa Phuong
+Nguyen Dinh Chinh
+Pho Quang
+Co Giang
+Hoa Su
+Nguyen Dinh Chieu
+Phung Van Cung
+Cu Lao
+Ky Con
+Nguyen Kiem
+Tan Canh
+Dao Duy Anh
+Hoang Dieu
+Nguyen Thai Son
+Thich Quang Duc
+Dao Duy Tu
+Hoang Minh Giam
+Nguyen Thi Huynh
+Tran Cao Van
+Dang Thai Mai
+Hoang Van Thu
+Nguyen Thuong Hien
+Tran Huu Trang
+Dang Van Ngu
+Ho Van Hue
+Nguyen Trong Tuyen
+Tran Ke Xuong
+Doan Thi Diem
+Hong Ha
+Nguyen Van Dau
+Tran Khac Chan
+Hoa Cau
+Huynh Van Banh
+Nguyen Van Troi
+Tran Quang Dieu
+Hoa Cuc
+Lam Son
+Nhieu Tu
+Truong Dang Que
+Hoa Dao
+Le Tu Tai
+Noi Bo
+Truong Quoc Dung
+Hoa Hong
+Le Van Si
+Phan Dang Luu
+Truong Sa
+District 2
+11
+Thao Dien Ward
+An Phu Ward
+Binh An Ward
+Binh Trung Dong Ward
+Binh Trung Tay Ward
+Binh Khanh Ward
+An Khanh Ward
+Cat Lai Ward
+Thanh My Loi Ward
+An Loi Dong Ward
+Thu Thiem Ward
+140
+An Phu
+Duong so 19
+Duong so 55
+Nguyen Duy Hieu
+An Phu - An Khanh
+Duong so 2
+Duong so 57
+Nguyen Duy Trinh
+Bat Nan
+Duong so 20
+Duong so 58
+Nguyen Hoang
+Binh Minh
+Duong so 21
+Duong so 59
+Nguyen Quy Canh
+Binh Trung
+Duong so 22
+Duong so 6
+Nguyen Thi Dinh
+Binh Trung Dong
+Duong so 23
+Duong so 60
+Nguyen Trong Quan
+Bui Ta Han
+Duong so 24
+Duong so 61
+Nguyen Trung Nguyet
+Dai lo Dong Tay
+Duong so 25
+Duong so 63
+Nguyen Tu Nghiem
+Dang Huu Dong
+Duong so 26
+Duong so 64
+Nguyen Tuyen
+Dang Huu Pho
+Duong so 27
+Duong so 65
+Nguyen Van Cu
+Dang Tien Dong
+Duong so 28
+Duong so 66
+Nguyen Van Giai
+Do Quang
+Duong so 29
+Duong so 7
+Nguyen Van Giap
+Do Xuan Hop
+Duong so 3
+Duong so 8
+Nguyen Van Huong
+Doan Huu Trung
+Duong so 30
+Duong so 8B
+Nguyen Van Kinh
+Duong 37A khu C
+Duong so 31
+Duong so 9
+Nguyen Van Luong
+Duong A
+Duong so 32
+Duong so 9B
+Quoc Huong
+Duong A4
+Duong so 33
+Duong Van An
+Song Hanh
+Duong C2
+Duong so 34
+Giang Van Minh
+Ta Hien
+Duong D2
+Duong so 35
+Giao Hoa
+Thai Thuan
+Duong E
+Duong so 36
+Huy Hoang
+Thanh My Loi
+Duong G
+Duong so 37
+Le Dinh Quan
+Thao Dien
+Duong H
+Duong so 38
+Le Huu Kieu
+The Ky
+Duong so 1
+Duong so 39
+Le Thuoc
+Thich Mat The
+Duong so 10
+Duong so 4
+Le Van Mien
+Tong Huu Dinh
+Duong so 10F
+Duong so 40
+Le Van Thinh
+Tran Luu
+Duong so 11
+Duong so 41
+Lien Tinh Lo 25B
+Tran Nao
+Duong so 12
+Duong so 42
+Luong Dinh Cua
+Tran Ngoc Dien
+Duong so 13
+Duong so 43
+Ngo Quang Huy
+Trinh Khac Lap
+Duong so 14
+Duong so 44
+Nguyen Ba Huan
+Truc Duong
+Duong so 15
+Duong so 46
+Nguyen Ba Lan
+Truong Gia Mo
+Duong so 16
+Duong so 47
+Nguyen Cu
+Truong Van Bang
+Duong so 17
+Duong so 48
+Nguyen Cu Di
+Vo Truong Toan
+Duong so 17A
+Duong so 49B
+Nguyen Dang Giai
+Vu Tong Phan
+Duong so 17B
+Duong so 5
+Nguyen Dinh Chieu
+Xa Lo Ha Noi
+Duong so 18
+Duong so 54
+Nguyen Don Tiet
+Xuan Thuy
+District 3
+14
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+58
+Ba Huyen Thanh Quan
+Hoa Hung
+Nguyen Hien
+Su Thien Chieu
+Ban Co
+Hoang Sa
+Nguyen Phuc Nguyen
+Tran Cao Van
+Cach Mang Thang 8
+Huynh Tinh Cua
+Nguyen Son Ha
+Tran Quang Dieu
+Cao Thang
+Huynh Van Banh
+Nguyen Thi Dieu
+Tran Quoc Thao
+Cong truong quoc te
+Kenh Nhieu Loc
+Nguyen Thi Minh Khai
+Tran Quoc Toan
+Dien Bien Phu
+Ky Dong
+Nguyen Thien Thuat
+Tran Van Dang
+Doan Cong Buu
+Le Ngo Cat
+Nguyen Thong
+Truong Dinh
+Duong so 1
+Le Quy Don
+Nguyen Thuong Hien
+Truong Quyen
+Duong so 2
+Le Van Sy
+Nguyen Tri Phuong
+Truong Sa
+Duong so 3
+Ly Chinh Thang
+Nguyen Van Mai
+Tu Xuong
+Duong so 4
+Ly Thai To
+Nguyen Van Troi
+Vo Thi Sau
+Duong so 5
+Nam Ky Khoi Nghia
+Pasteur
+Vo Van Tan
+Duong so 7
+Ngo Thoi Nhiem
+Pham Dinh Toai
+Vuon Chuoi
+Hai Ba Trung
+Nguyen Dinh Chieu
+Pham Ngoc Thach
+Ho Xuan Huong
+Nguyen Gia Thieu
+Rach Bung Binh
+District 10
+15
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+71
+Ba Hat
+Ho Ba Kien
+Ly Thai To
+Tam Dao
+Ba Vi
+Ho Thi Ky
+Ly Thuong Kiet
+Tan Phuoc
+Bac Hai
+Hoa Binh
+Ngo Gia Tu
+Thanh Thai
+Bach Dang
+Hoa Hao
+Ngo Quyen
+That Son
+Bach Ma
+Hoa Hung
+Nguyen Chi Thanh
+Thien Phuoc
+Ban Co
+Hoang Du Khuong
+Nguyen Duy Duong
+To Hien Thanh
+Buu Long
+Hoang Van Thu
+Nguyen Gian Thanh
+Tran Binh Trong
+Cach Mang Thang 8
+Hong Bang
+Nguyen Kim
+Tran Hung Dao
+Cao Thang
+Hong Linh
+Nguyen Lam
+Tran Minh Quyen
+Chau Thoi
+Hung Long
+Nguyen Ngoc Loc
+Tran Nhan Ton
+Cuu Long
+Hung Vuong
+Nguyen Thi Dinh
+Tran Quoc Dung
+Dao Duy Tu
+Huong Giang
+Nguyen Thuong Hien
+Tran Quy
+Dao Nguyen Pho
+Kenh Nhieu Loc
+Nguyen Tieu La
+Tran Thien Chanh
+Dat Thanh
+Ky Hoa
+Nguyen Tri Phuong
+Tran Van Dang
+Dien Bien Phu
+Lanh Binh Thang
+Nguyen Trung Truc
+Truong Chinh
+Dong Nai
+Le Dai Hanh
+Nguyen Van Luong
+Truong Son
+Duong 3 Thang 2
+Le Hong Phong
+Nhat Tao
+Vinh Vien
+Hau Thoi
+Lu Gia
+Su Van Hanh
+District 11
+16
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+16 Ward
+80
+Au Co
+Duong so 5A
+Lac Long Quan
+Phu Tho
+Binh Thoi
+Duong so 6
+Lanh Binh Thang
+Quan Su
+Cong Chua Ngoc Han
+Duong so 7
+Le Dai Hanh
+Ta Uyen
+Dang Minh Khiem
+Duong so 702
+Le Thi Bach Cat
+Tan Da
+Dao Nguyen Pho
+Duong so 762
+Le Tung
+Tan Hoa
+Do Ngoc Thanh
+Duong so 7A
+Lo Sieu
+Tan Khai
+Doi Cung
+Duong so 8
+Lu Gia
+Tan Phuoc
+Duong 3 Thang 2
+Duong so 9
+Ly Nam De
+Tan Thanh
+Duong Dinh Nghe
+Duong Tu Giang
+Ly Thuong Kiet
+Thai Phien
+Duong so 100
+EverRich
+Mai Xuan Thuong
+Thien Phuoc
+Duong so 13
+Ha Ton Quyen
+Minh Phung
+Thuan Kieu
+Duong so 16
+Han Hai Nguyen
+Ngo Quyen
+Ton That Hiep
+Duong so 2
+Hoa Binh
+Nguyen Ba Hoc
+Tong Lung
+Duong so 22
+Hoa Hao
+Nguyen Chi Thanh
+Tong Van Tran
+Duong so 281
+Hoang Duc Tuong
+Nguyen Thi Nho
+Tran Quy
+Duong so 3
+Hoang Xuan Nhi
+Nguyen Van Phu
+Trinh Dinh Trong
+Duong so 34
+Hong Bang
+Nhat Tao
+Tue Tinh
+Duong so 3A
+Hung Vuong
+Ong Ich Khiem
+Vinh Vien
+Duong so 4
+Huyen Toai
+Phan Xich Long
+Vo Van Tan
+Duong so 5
+Khuong Viet
+Pho Co Dieu
+Xom Dat
+District 4
+15
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+08 Ward
+09 Ward
+10 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+16 Ward
+18 Ward
+75
+Ben Van Don
+Duong so 19
+Duong so 37
+Hoang Dieu
+Dan Sinh
+Duong so 2
+Duong so 38
+Khanh Hoi
+Dinh Le
+Duong so 20
+Duong so 39
+Le Quoc Hung
+Doan Nhu Hai
+Duong so 21
+Duong so 4
+Le Thach
+Doan Van Bo
+Duong so 22
+Duong so 40
+Le Van Linh
+Duong so 1
+Duong so 23
+Duong so 41
+Ngo Van So
+Duong so 10
+Duong so 24
+Duong so 42
+Nguyen Huu Hao
+Duong so 10A
+Duong so 25
+Duong so 43
+Nguyen Khoai
+Duong so 10B
+Duong so 28
+Duong so 44
+Nguyen Tat Thanh
+Duong so 10C
+Duong so 29
+Duong so 45
+Nguyen Than Hien
+Duong so 11
+Duong so 3
+Duong so 46
+Nguyen Truong To
+Duong so 12
+Duong so 30
+Duong so 47
+Tan Vinh
+Duong so 12A
+Duong so 31
+Duong so 48
+Ton Dan
+Duong so 12B
+Duong so 32
+Duong so 49
+Ton That Thuyet
+Duong so 13
+Duong so 32A
+Duong so 50
+Truong Dinh Hoi
+Duong so 15
+Duong so 33
+Duong so 6
+Vinh Hoi
+Duong so 16
+Duong so 34
+Duong so 7
+Vinh Khanh
+Duong so 17
+Duong so 35
+Duong so 8
+Xom Chieu
+Duong so 18
+Duong so 36
+Duong so 9
+District 5
+15
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+96
+Tran Tuong Cong
+Tan Hang
+Nguyen Thi Nho
+Ham Tu
+Tran Tuan Khai
+Tang Bat Ho
+Nguyen Thi
+Hai Thuong Lan Ong
+Tran Phu
+Tan Da
+Nguyen Kim
+Ha Ton Quyen
+Tran Nhan Ton
+Ta Uyen
+Nguyen Duy Duong
+Go Cong
+Tran Hung Dao
+Su Van Hanh
+Nguyen Chi Thanh
+Gia Phu
+Tran Hoa
+Phuoc Hung
+Nguyen Bieu
+Do Van Suu
+Tran Dien
+Phung Hung
+Nguyen An
+Do Ngoc Thach
+Tran Chanh Chieu
+Phu Dong Thien Vuong
+Nguyen An Khuong
+Dang Thai Than
+Tran Van Kieu
+Phu Huu
+Ngo Quyen
+Dao Tan
+Tang Bat Ho
+Phu Giao
+Ngo Nhan Tinh
+Duong Tu Giang
+Tan Da
+Phu Dinh
+Ngo Gia Tu
+Chieu Anh Cac
+Yet Kieu
+Pho Co Dieu
+Nghia Thuc
+Chau Van Liem
+Xom Voi
+Phan Van Tri
+Mac Thien Tich
+Cao Dat
+Vu Chi Hieu
+Phan Van Khoe
+Mac Cuu
+Bui Huu Nghia
+Vo Truong Toan
+Phan Phu Tien
+Ly Thuong Kiet
+Bai Say
+Van Tuong
+Phan Huy Chu
+Luu Xuan Tin
+Bach Van
+Van Kiep
+Pham Huu Chi
+Luong Nhu Hoc
+Ba trieu
+Trinh Hoai Duc
+Pham Don
+Le Hong Phong
+An Duong Vuong
+Trieu Quang Phuc
+Pham Ban
+Lao Tu
+An Diem
+Tran Xuan Hoa
+Nhieu Tam
+Ky Hoa
+An Binh
+Trang Tu
+Nguyen Van Dung
+Kim Bien
+Vo Truong Toan
+Tong Duy Tan
+Nguyen Tri Phuong
+Hung Long
+Yet Kieu
+Tan Thanh
+Nguyen Trai
+Huynh Man Dat
+Hong Bang
+Tan Hung
+Nguyen Thoi Trung
+Hung Vuong
+Hoc Lac
+District 6
+14
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+102
+An Duong Vuong
+Duong so 15
+Duong so 52
+Nguyen Huu Than
+Ba Hom
+Duong so 18
+Duong so 54
+Nguyen Ngoc Cung
+Ba Ky
+Duong so 19
+Duong so 6
+Nguyen Pham Tuan
+Ba Lai
+Duong so 2
+Duong so 64
+Nguyen Thi Nho
+Bai Say
+Duong so 20
+Duong so 7
+Nguyen Van Luong
+Ben Lo Gom
+Duong so 22
+Duong so 74
+Nguyen Xuan Phung
+Ben Phu Lam
+Duong so 23
+Duong So 76
+Pham Dinh Ho
+Binh Phu
+Duong so 24
+Duong so 8
+Pham Phu Thu
+Binh Tay
+Duong so 26
+Duong so 9
+Pham Van Chi
+Binh Tien
+Duong so 28
+Gia Phu
+Phan Anh
+Buu Dinh
+Duong So 28A
+Hau Giang
+Phan Van Khoe
+Cao Van Lau
+Duong so 29
+Hoang Le Kha
+Phung Hung
+Chanh Hung
+Duong so 3
+Hong Bang
+Song Hanh
+Cho Lon
+Duong so 30
+Hung Vuong
+Tan Hoa
+Chu Van An
+Duong so 32
+Kinh Duong Vuong
+Tan Hoa Dong
+Cu xa Phu Lam A
+Duong so 33
+Le Quang Sung
+Thap Muoi
+Cu xa Phu Lam B
+Duong so 34
+Le Tan Ke
+Tien Che
+Cu xa Phu Lam D
+Duong so 36
+Le Truc
+Tran Binh
+Dang Nguyen Can
+Duong so 38
+Le Tuan Mau
+Tran Trung Lap
+Duong 35C
+Duong so 4
+Lo Gom
+Tran Van Kieu
+Duong so 1
+Duong so 40
+Ly Chieu Hoang
+Trang Tu
+Duong so 10
+Duong so 42
+Mai Xuan Thuong
+Van Than
+Duong So 10 Cx Rada
+Duong so 44
+Minh Phung
+Van Thanh
+Duong so 11
+Duong so 47
+Ngo Nhan Tinh
+Vanh Dai
+Duong so 12
+Duong so 49
+Nguyen Dinh Chi
+Vo Van Kiet
+Duong so 14
+Duong so 5
+District 8
+16
+01 Ward
+02 Ward
+03 Ward
+04 Ward
+05 Ward
+06 Ward
+07 Ward
+08 Ward
+09 Ward
+10 Ward
+11 Ward
+12 Ward
+13 Ward
+14 Ward
+15 Ward
+16 Ward
+137
+An Duong Vuong
+Ba To
+Duong So 332
+Nguyen Si Co
+An Tai
+Duong 267B Ba To
+Duong so 4
+Nguyen Thanh Phuong
+Au Duong Lan
+Duong 270 Cao Lo
+Duong so 41
+Nguyen Thi Tan
+Ba Dinh
+Duong 284 Cao Lo
+Duong so 44
+Nguyen Thi Thap
+Ba To
+Pham The Hien
+Duong so 5
+Nguyen Tri Phuong
+Ben Binh Dong
+Duong 3052A Pham The Hien
+Duong so 7
+Nguyen Van Cu
+Ben Can Giuoc
+Duong 320 Bong Sao
+Duong so 8
+Nguyen Van Cua
+Ben Me Coc
+Duong 320A Bong Sao
+Duong so 9
+Nguyen Van Linh
+Ben Phu Dinh
+Ta Quang Buu
+Ho Hoc Lam
+Noi Pham The Hien BaTo
+Ben U Cay
+Duong 715 Ta Quang Buu
+Hoai Thanh
+Pham Hung
+Ben Xom Cui
+Duong 817A
+Hoang Dao Thuy
+Pham The Hien
+Binh Dang
+Duong 84 Cao Lo
+Hoang Minh Dao
+Phong Phu
+Binh Dong
+Duong 9 - Khu Thanh Nhut
+Hoang Si Khai
+Phu Dinh
+Binh Duc
+Duong Ba Trac
+Hung Phu
+Phu Loi
+Binh Hung
+Duong D 2
+Huynh Thi Phung
+Quoc Lo 50
+Bong Sao
+Duong so 1
+Le Quang Kim
+Rach Cat
+Bui Huy Bich
+Duong so 10
+Le Thanh Phuong
+Rach Cung
+Bui Minh Truc
+Duong so 1011
+Lien Tinh 5
+Rach Long Den
+Can Giuoc
+Cao Lo
+Luong Ngoc Quyen
+Ta Quang Buu
+Cao Lo
+Duong so 1107
+Luong Van Can
+Tran Nguyen Han
+Cao Xuan Duc
+Duong so 111
+Luu Huu Phuoc
+Tran Van Thanh
+Cay Sung
+Duong so 12
+Luu Quy Ky
+Trinh Quang Nghi
+Chanh Hung
+Duong so 13
+Ly Chieu Hoang
+Truong Dinh Hoi
+Da Nam
+Duong so 14
+Ly Dao Thanh
+Tung Thien Vuong
+Da Tuong
+Duong so 15
+Mac Van
+Tuy Ly Vuong
+Dang Chat
+Duong so 16
+Mai Am
+Uu Long
+Dao Cam Moc
+Duong so 16 ND
+Mai Hac De
+Van Kiep
+Dinh An Tai
+Duong so 2
+Me Coc
+Van Than
+Dinh Hoa
+Duong so 22
+Ngo Sy Lien
+Vinh Nam
+Dong Dieu
+Duong so 23
+Nguyen Che Nghia
+Vo Tru
+Dong Ho
+Duong so 29
+Nguyen Duy
+Vo Van Kiet
+Cao Lo
+Duong so 3
+Nguyen Duy Duong
+Xom Cui
+Duong 198 Cao Lo
+Duong So 318
+Nguyen Ngoc Cung
+Duong 204 Cao Lo
+Duong So 320
+Nguyen Nhuoc Thi
+Cao Lo
+Duong so 33
+Nguyen Quyen
+District Binh Tan
+10
+Binh Hung Hoa Ward
+Binh Hung Hoa A Ward
+Binh Hung Hoa B Ward
+Binh Tri Dong Ward
+Binh Tri Dong A Ward
+Binh Tri Dong B Ward
+Tan Tao Ward
+Tan Tao A Ward
+An Lac Ward
+An Lac A Ward
+265
+An Duong Vuong
+Duong so 19B
+Duong so 52A
+Lien Khu 5
+Ao Doi
+Duong so 19E
+Duong so 52B
+Lien Khu 5-11-12
+Ao Sen
+Duong so 1A
+Duong so 53
+Lien khu 5-6
+Ap Chien Luoc
+Duong so 1B
+Duong so 532
+Lien Khu 7-13
+Ba Hom
+Duong so 1C
+Duong so 53A
+Lien Khu 8-9
+Ben Loi
+Duong so 1D
+Duong so 53C
+Lo Te
+Bia Truyen Thong
+Duong so 2
+Duong so 53D
+Lo Tu
+Binh Hanh
+Duong so 20
+Duong so 54
+Ly Chieu Hoang
+Binh Long
+Duong so 21
+Duong so 54A
+Ly Thanh Tong
+Binh Thanh
+Duong so 21A
+Duong so 55
+Ma Lo
+Binh Tri Dong
+Duong So 21D
+Duong so 55A
+Mieu Binh Dong
+Bo song
+Duong so 22
+Duong so 57
+Mieu Go Xoai
+Bo Tuyen
+Duong so 23
+Duong so 57A
+Nghi Xuan
+Bong Sen
+Duong so 24
+Duong so 57B
+Ngo Y Linh
+Bui Duong Lich
+Duong so 24A
+Duong so 57C
+Nguyen Cuu Phu
+Bui Huu Dien
+Duong so 24B
+Duong so 59D
+Nguyen Dinh Kien
+Bui Tu Toan
+Duong so 25
+Duong so 5A
+Nguyen Hoi
+Cao Toc Trung Luong
+Duong so 25A
+Duong so 5B
+Nguyen Huu Canh
+Cau Kinh
+Duong so 26
+Duong so 5C
+Nguyen Quy Yem
+Cay Cam
+Duong so 27
+Duong so 5D
+Nguyen Son
+Chien Luoc
+Duong so 28
+Duong so 5E
+Nguyen Thi Tu
+Cong Hop
+Duong so 29
+Duong so 5F
+Nguyen Thuc Duong
+Dai lo Dong Tay
+Duong so 2A
+Duong so 6
+Nguyen Thuc Tu
+Dat Moi
+Duong so 2B
+Duong so 6A
+Nguyen Trieu Luat
+Dinh Nghi Xuan
+Duong so 2C
+Duong so 7
+Nguyen Trong Chi
+Dinh Tan Khai
+Duong so 2D
+Duong so 7A
+Nguyen Trong Tri
+Do Bi
+Duong so 3
+Duong so 7B
+Nguyen Van Cu
+Do Nang Te
+Duong so 30
+Duong so 8
+Pham Banh
+Doan Phu Tu
+Duong so 32
+Duong so 8B
+Pham Dang Giang
+Duong 14E
+Duong so 33B
+Duong so 9
+Phan Anh
+Duong 26 Thang 3
+Duong so 34
+Duong so 9A
+Phan Cat Tuu
+Duong A5
+Duong so 36
+Duong so 9B
+Phan Dinh Thong
+Duong A6
+Duong so 38
+Duong Trung Tam
+Phan Van Nam
+Duong Ba Cung
+Duong so 39
+Duong Tu Quan
+Phung Ta Chu
+Duong Doi
+Duong so 3A
+Go Xoai
+Quoc Lo 1A
+Duong G1
+Duong so 3B
+Ho Hoc Lam
+Song Suoi
+Duong G7
+Duong so 3C
+Ho Van Long
+Song Tac
+Duong Kenh C
+Duong so 4
+Hoang Hung
+Ta My Duat
+Duong M1
+Duong so 40
+Hoang Van Hop
+Ta Quang Buu
+Duong Sinco
+Duong so 40A
+Hung Vuong
+Tan Hoa Dong
+Duong so 1
+Duong so 40B
+Huong lo 13
+Tan Khai
+Duong so 10
+Duong so 42
+Huong lo 2
+Tan Ky Tan Quy
+Duong so 11
+Duong so 42A
+Huong lo 3
+Tan Son Nhi
+Duong so 11A
+Duong so 43
+Huong Lo 5
+Tan Tao
+Duong so 12
+Duong so 44
+Huong lo 80
+Tay Lan
+Duong so 12A
+Duong so 46
+Kenh Nuoc Den
+Ten Lua
+Duong so 13
+Duong so 46A
+Khieu Nang Tinh
+Thach Lam
+Duong so 13A
+Duong so 47
+Khu Y Te Ky Thuat Cao
+Thang Long
+Duong so 13C
+Duong so 47C
+Kinh Duong Vuong
+Thoai Ngoc Hau
+Duong so 14
+Duong so 48
+Lam Hoanh
+Tinh Lo 10
+Duong so 14A
+Duong so 48A
+Le Co
+Tinh Lo 13
+Duong so 14B
+Duong so 48B
+Le Cong Phep
+Tinh lo 8
+Duong so 15
+Duong so 49
+Le Dinh Can
+Tran Dai Nghia
+Duong so 16
+Duong so 49A
+Le Dinh Duong
+Tran Thanh Mai
+Duong so 16A
+Duong so 49B
+Le Loi
+Tran Thanh Mai
+Duong so 16B
+Duong so 49C
+Le Ngung
+Truong Phuoc Phan
+Duong so 17
+Duong so 4A
+Le Tan Be
+Vanh Dai Trong
+Duong so 17A
+Duong so 4C
+Le Thuc Hoach
+Vinh Loc
+Duong so 17B
+Duong so 5
+Le Trong Tan
+Vinh Loc B
+Duong so 18
+Duong so 50
+Le Van Que
+Vo Van Kiet
+Duong so 18A
+Duong so 504
+Le Van Quoi
+Vo Van Van
+Duong so 18B
+Duong so 50A
+Lien khu 10-11
+Vu Huu
+Duong so 18C
+Duong so 50B
+Lien Khu 1-6
+Vuong Van Huong
+Duong so 18D
+Duong so 50C
+Lien khu 16-18
+Xa Lo Dai Han
+Duong so 18E
+Duong so 50D
+LIEN KHU 3-10
+Duong so 19
+Duong so 51
+Lien Khu 3-5
+Duong so 19A
+Duong so 52
+Lien khu 4-5
+District 7
+10
+Tan Thuan Dong Ward
+Tan Thuan Tay Ward
+Tan Kieng Ward
+Tan Hung Ward
+Binh Thuan Ward
+Tan Quy Ward
+Phu Thuan Ward
+Tan Phu Ward
+Tan Phong Ward
+Phu My Ward
+167
+Bac Nam
+Duong So 1H
+Duong so 66
+Nguyen Khac Vien
+Be Van Cam
+Duong so 2
+Duong so 67
+Nguyen Luong Bang
+Ben Nghe
+Duong so 20
+Duong so 69
+Nguyen Phan Chanh
+Bertrand Russell
+Duong so 21
+Duong so 6E
+Nguyen Thi Thap
+Bo Tay
+Duong so 22
+Duong so 7
+Nguyen Tri Phuong
+Bui Bang Doan
+Duong so 23
+Duong so 71
+Nguyen Van Cu
+Bui Van Ba
+Duong so 25
+Duong So 75
+Nguyen Van Linh
+Cao Trieu Phat
+Duong so 25A
+Duong so 77
+Nguyen Van Quy
+Cau Tan Thuan 2
+Duong so 27
+Duong so 79
+Nguyen Van Tiet
+Chuyen Dung
+Duong so 28
+Duong so 8
+noi bo khu Nam Phu
+Dang Dai Do
+Duong so 3
+Duong so 81
+O Doc Tuyet
+Dang Duc Thuat
+Duong so 30
+Duong so 85
+Pham Huu Lau
+Dao Su Tich
+Duong so 31
+Duong so 9
+Pham Thai Buong
+Dao Tri
+Duong so 32
+Duong U
+Pham Thieu
+Dao Tri Noi dai
+Duong so 33
+Go O Moi
+Pham Van Nghi
+Do Doc Tuyet
+Duong so 34
+Ha Huy Tap
+Pham Van Nghi - Bac
+Duong 10 Tay 
+Duong so 35
+Hoang Quoc Viet
+Pham Viet Chanh
+Duong 4C
+Duong so 36
+Hoang Van Thai
+Phan Huy Thuc
+Duong C
+Duong so 37
+Hung Long
+Phan Khiem Ich
+Duong D
+Duong so 38
+Huynh Tan Phat
+Phan Van Chuong
+Duong D23
+Duong so 39
+Khu My Kim
+Phu Thuan
+Duong D4
+Duong so 3A
+Lam van Ben
+Rach Doi
+Duong D5B
+Duong so 4
+Le Thanh Ton
+Sang Tao
+Duong G
+Duong so 40
+Le Van Luong
+Ta Quang Buu
+Duong N
+Duong so 41
+Le Van Thiem
+Tan An Huy
+Duong O
+Duong so 42
+Luther King
+Tan My
+Duong P
+Duong so 43
+Luu Trong Lu
+Tan Phu
+Duong so 1
+Duong so 45
+Ly Long Tuong
+Tan Quy Dong
+Duong so 10
+Duong so 47
+Ly Phuc Man
+Tan Thuan
+Duong so 11
+Duong so 49
+Mai Van Vinh
+Tan Thuan Tay
+Duong so 11N
+Duong so 4F
+Morison
+Tan Trao
+Duong so 12
+Duong so 5
+My Thai
+Tieu Bac
+Duong so 12B
+Duong so 51
+My Vien
+Tieu Dong
+Duong so 13
+Duong so 52
+Nam Quang 1
+Tieu Nam
+Duong so 14
+Duong so 53
+Nam Thong 1
+Ton Dat Tien
+Duong so 14A
+Duong so 5B
+Nam Thong 3
+Tran Trong Cung
+Duong so 15
+Duong so 5K
+Nguyen Binh
+Tran Van Khanh
+Duong so 15B
+Duong so 6
+Nguyen Cao
+Tran Van Tra
+Duong so 16
+Duong so 60
+Nguyen Cao Nam
+Tran Xuan Soan
+Duong so 17
+Duong so 61
+Nguyen Dong Chi
+Ung Long Nam
+Duong so 18
+Duong so 62
+Nguyen Duc Canh
+Xa lo Bac Nam
+Duong so 19
+Duong so 63
+Nguyen Huu Tho
+District Cu Chi
+21
+Cu Chi Ward
+Phu My Hung Ward
+An Phu Ward
+Trung Lap Thuong Ward
+An Nhon Tay Ward
+Nhuan Duc Ward
+Pham Van Coi Ward
+Phu Hoa Dong Ward
+Trung Lap Ha Ward
+Trung An Ward
+Phuoc Thanh Ward
+Phuoc Hiep Ward
+Tan An Hoi Ward
+Phuoc Vinh An Ward
+Thai My Ward
+Tan Thanh Tay Ward
+Hoa Phu Ward
+Tan Thanh Dong Ward
+Binh My Ward
+Tan Phu Trung Ward
+Tan Thong Hoi Ward
+124
+VM80:44 An Nhon Tay
+Duong 101
+Le Thi Sieng
+Nhuan Duc
+An Phu
+Duong lang so 4
+Le Tho Xuan
+Ninh Ton
+Ap Ben Do 1
+Duong so 11
+Le Vinh Huy
+Ong Ich Duong
+Ba Nhep
+Duong so 181
+Lien Ap Hoi Thanh
+Pham Huu Tam
+Ba Thien
+Duong so 21
+Lien Ap Hoi Thanh - Cho - An Binh
+Pham Phu Tiet
+Bau Lach
+Duong so 35
+Lien xa Bau Hung Loi
+Pham Van Cheo
+Bau Tram
+Duong so 366
+Lien Xa Phuoc Vinh An - Pham Van Coi
+Phan Thi Hoi
+Bau Tre
+Duong so 39
+Lien xa Trung Lap - Sa Nho
+Quoc Lo 22
+Ben Co
+Duong so 40
+Lieu Binh Huong
+Ranh Khu Cong Nghiep
+Ben Dinh
+Duong so 41
+Luu Khai Hong
+Song Lu
+Ben Suc
+Duong so 42
+Ngo Tri Hoa
+Suoi Loi
+Ben Than
+Duong so 456
+Nguyen Dai Nang
+Tam Tan
+Binh My
+Duong so 490
+Nguyen Dinh Huan
+Tan Phu Trung
+Bon Phu
+Duong so 5
+Nguyen Giao
+Tan Thong Hoi
+Bui Thi Diet
+Duong so 99
+Nguyen Kim Cuong
+Tinh Lo 15
+Ca Lang
+Giap Hai
+Nguyen Phong Sac
+Tinh lo 2
+Can Truong
+Giong Cat
+Nguyen Phuc Tru
+Tinh lo 6
+Cay Bai
+Ha Van Lao
+Nguyen Thi Lam
+Tinh Lo 7
+Cay Da
+Hiep Binh
+Nguyen Thi Lang
+Tinh lo 8
+Cay Go
+Ho Van Tang
+Nguyen Thi Lang
+Tinh lo 9
+Cay Go
+Ho Van Tang
+Nguyen Thi Ne
+Tran Thi Ngan
+Cay Trac
+Hoang Ba Huan
+Nguyen Thi Ranh
+Tran Tu Binh
+Cay Trom
+Huong lo 10
+Nguyen Thi Ru
+Tran Van Cham
+Cay Trom - My Khanh
+Huong lo 2
+Nguyen Thi Trieu
+Trung An
+Dao Van Thu
+Huong lo 22
+Nguyen Van Kha
+Truong Thi Kien
+Dinh Chuong Duong
+Huong Lo 4
+Nguyen Van Ni
+Vo Thi Hong
+Dinh Kien
+Huynh Minh Muong
+Nguyen Van On
+Vo Van Bich
+Do Dang Tuyen
+Huynh Thi Bang
+Nguyen Van Ty
+Vo Van Dieu
+Do Dinh Nhan
+Huynh Van Co
+Nguyen Van Xo
+Vu Duy Chi
+Do Ngoc Du
+Kim Cuong
+Nguyen Viet Xuan
+Vu Tu
+Do Quang Co
+Le Minh Nhut
+Nhu Tien Hien
+Vuon Thuoc
+District Hoc Mon
+12
+Hoc Mon Ward
+Tan Hiep Ward
+Nhi Binh Ward
+Dong Thanh Ward
+Tan Thoi Nhi Ward
+Thoi Tam Thon Ward
+Xuan Thoi Son Ward
+Tan Xuan Ward
+Xuan Thoi Dong Ward
+Trung Chanh Ward
+Xuan Thoi Thuong Ward
+Ba Diem Ward
+182
+Ap Dan Thang 1
+Duong Tuyen 5
+Pham Van Sang
+Tuyen Ong Nuoc Sach
+Ap Dan Thang 2
+Duong Tuyen 9
+Phan Van Doi
+Van Hanh 1
+Ap Dinh 2
+Giac Dao
+Phan Van Hon
+Van Hanh 3
+Ap Dinh 4
+Ha Noi
+Quang Trung
+Van Hanh 4
+Ap Dong
+Han Quoc
+Quoc Lo 1A
+Vanh dai 3
+Ap My Hoa I
+Hau Lan
+Quoc Lo 22
+Vo Thi Hoi
+Ap Nam Thoi
+Hau Lan - Ba Diem
+Rach Hoc Mon
+Vo Van Bich
+Ap Tam Dong
+Ho Ngoc Can
+Rong Bang
+Xuan Thoi 15
+Ap Tay Bac Lan
+Huong Lo 60
+Song Hanh
+Xuan Thoi 2
+Nhi Tan 1
+Huong Lo 60B
+Song Hanh Quoc Lo 22
+Xuan Thoi 23
+Ap Tien Lan
+Huong Lo 80B
+Tam Dong
+Xuan Thoi 3
+Ba Diem
+Khu Pho 1 01
+Tan Hiep
+Xuan Thoi 5
+Ba Diem 2
+Khu Pho 1 02
+Tan Hiep 14
+Xuan Thoi 6
+Ba Diem 5
+Khu Pho 1 03
+Tan Hiep 15
+Xuan Thoi 7
+Ba Diem 6
+Khu Pho 3-01
+Tan Hiep 16
+Xuan Thoi 8
+Ba Diem 7
+Khu Pho 3-02
+Tan Hiep 31
+Xuan Thoi 9
+Ba Diem 8
+Tan Hiep 4
+Xuan Thoi Dong 2
+Ba Trieu
+Le Lai
+Tan Hiep 6
+Xuan Thoi Son 1
+Bui Chu
+Le Loi
+Tan Hiep 7
+Xuan Thoi Son 16
+Bui Cong Trung
+Le Thi Ha
+Tan Xuan 1
+Xuan Thoi Son 2
+Bui Van Ngu
+Le Van Khuong
+Tan Xuan 2
+Xuan Thoi Son 20C
+Chu Manh Trinh
+Lien Ap 1-4
+Tan Xuan 6
+Xuan Thoi Son 21
+Dang Cong Binh
+Lien Ap 3-7
+Thai Binh
+Xuan Thoi Son 22
+Dang Thuc Vinh
+Lien Ap 5-7
+Thanh Uy
+Xuan Thoi Son 26
+Dang Van Muoi
+Lien Ap Nam Thoi - Thoi Tu
+Thien Quang
+Xuan Thoi Son 27
+Do Van Day
+Lien Ap Thoi Tu Trung Dong
+Thoi Tam Thon 3
+Xuan Thoi Son 37
+Dong Ba Canh
+Lien Ap 3-6-7
+Thoi Tam Thon 6
+Xuan Thoi Son 38
+Dong Lan
+Lien Xa Tan Hiep
+Thoi Tay
+Xuan Thoi Son 4
+Dong Tam
+Lien Xa Tan Thoi Nhi - Thi Tran
+Thoi Tay Tan Hiep
+Xuan Thoi Son 5
+Dong Thanh 2
+Lien Xa Thi Tran - Tan Hiep
+Thoi Tu
+Xuan Thoi Son 6
+Dong Thanh 3-5
+Lien Xa Thi Tran - Thoi Tam Thon
+Thuong Mai 1
+Xuan Thoi Son 8
+Dong Thanh 3
+Lien Xa Thoi Tam Thon - Dong Thanh
+Thuong Mai 3
+Xuan Thoi Son A
+Dong Thanh 4
+Ly Nam De
+To Ky
+Xuan Thoi Thuong
+Dong Thanh 4 2
+Ly Thuong Kiet
+Tran Binh Trong
+Xuan Thoi Thuong 15
+Dong Thanh 5
+My Hue
+Tran Khac Chan
+Xuan Thoi Thuong 17
+Dong Thanh 7
+Nam Lan
+Tran Van Muoi
+Xuan Thoi Thuong 23
+Duong Cong Khi
+Nam Thoi 1
+Trinh Thi Mieng
+Xuan Thoi Thuong 24
+Duong so 12
+Nam Thoi 2
+Trung Dong 11
+Xuan Thoi Thuong 26
+Duong so 14
+Ngo Quyen
+Trung Dong 12
+Xuan Thoi Thuong 4
+Duong so 17
+Nguyen Anh Thu
+Trung Dong 7
+Xuan Thoi Thuong 5
+Duong so 2
+Nguyen Huu Cau
+Trung Dong 8
+Xuan Thoi Thuong 59
+Duong so 3
+Nguyen Thi Ranh
+Trung Lan 1
+Xuan Thoi Thuong 6
+Duong so 5
+Nguyen Thi Soc
+Trung My
+Xuan Thoi Thuong 7
+Duong so 6
+Nguyen Thi Thu
+Trung Nu Vuong
+Xuan Thoi Thuong 8
+Duong so 7
+Nguyen Van Bua
+Trung Vuong 3
+Xuan Thoi Thuong 9
+Duong so 8
+Ong Nuoc
+Tuyen ap 1
+District Binh Chanh
+16
+Tan Tuc Ward
+Pham Van Hai Ward
+Vinh Loc A Ward
+Vinh Loc B Ward
+Binh Loi Ward
+Le Minh Xuan Ward
+Tan Nhut Ward
+Tan Kien Ward
+Binh Hung Ward
+Phong Phu Ward
+An Phu Tay Ward
+Hung Long Ward
+Da Phuoc Ward
+Tan Quy Tay Ward
+Binh Chanh Ward
+Quy Duc Ward
+205
+An Ha
+Duong so 1
+Duong so 9
+Nguyen Tri Phuong
+An Phu Tay
+Duong so 10
+Duong so 9A
+Nguyen Van Bua
+An Phu Tay - Hung Long
+Duong so 10A
+Duong T12
+Nguyen Van Cu
+Ap Hung Lan
+Duong so 10B
+Duong T4
+Nguyen Van Linh
+Ba Ca
+Duong so 11
+Giao Thong Hao Ap 3
+Nguyen Van Long
+Ba Diem
+Duong so 11A
+Hoang Dao Thuy
+Nguyen Van The
+Ba Thao
+Duong so 12
+Hoang Phan Thai
+Nguyen Van Thoi
+Bau Goc
+Duong so 13
+Hoc Huu
+Nu Dan Cong
+Bay Tan
+Duong so 13A
+Hung Long
+Pham Hung
+Ben Loi
+Duong so 14
+Hung Nhon
+Pham Van Sang
+Binh Hung
+Duong so 15
+Hung Vuong
+Phan Tan Muoi
+Binh Minh
+Duong so 16
+Huong lo 11
+Quach Dieu
+Binh Truong
+Duong so 17
+Huong lo 80
+Quoc Lo 13
+Bo Hue
+Duong so 18
+Huynh Ba Chanh
+Quoc Lo 1A
+Bo Nha Tho
+Duong so 18A
+Huynh Van Tri
+Quoc Lo 50
+Bo Xe Lam
+Duong so 18B
+Kenh 7
+Quy Duc
+Bong Van Dia
+Duong so 19
+Khieu Nang Tinh
+Rach Ong Com
+Bui Thanh Khiet
+Duong so 1A
+Khoa Dong
+Tan Kien
+Bui Van Su
+Duong so 1B
+Khuat Van Buc
+Tan Liem
+Cai Trung
+Duong so 1C
+Kinh Lien Vung
+Tan Lieu
+Cao Toc Trung Luong
+Duong so 1D
+Kinh Rau Ram
+Tan Long
+Cay Bang
+Duong so 1E
+Kinh Sau Anh
+Tan Nhieu
+Cay Cam
+Duong so 1F
+Lai Hung Cuong
+Tan Quy Tay
+Chanh Hung
+Duong so 2
+Lang Le - Bau Co
+Tan Tuc
+Cong Nghe Moi
+Duong so 20
+Le Ba Trinh
+Tap Doan 16
+Da Do
+Duong so 21
+Le Chinh Dang
+Thanh Nien
+Da Phuoc
+Duong so 22
+Le Dinh Chi
+The Lu
+Dan Cong Hoa Tuyen
+Duong so 24
+Le Minh Xuan
+Thich Thien Hoa
+De Rach Ong Do
+Duong so 26
+Lien Ap 1
+Thien Giang
+De Ranh
+Duong so 27
+Lien Ap 1 2
+Thoi Hoa
+De So 2
+Duong so 2A
+Lien Ap 1-3-3
+Tinh Lo 10
+Dinh Duc Thien
+Duong so 2B
+Lien Ap 2
+Tinh Lo 10B
+Doan Nguyen Tuan
+Duong so 3
+Lien Ap 3-3
+Tram Lay 1
+Duong Ap 2
+Duong so 3A
+Lien Ap 3-3-4
+Tran Dai Nghia
+Duong Ap 4
+Duong so 4
+Lien Ap 3-6
+Tran Hai Phung
+Duong C3
+Duong so 4A
+Lien Ap 3
+Tran Van Giau
+Duong Chua
+Duong so 4B
+Lien Ap 3-4
+Trinh Nhu Khue
+Duong Dinh Cuc
+Duong so 5
+Lien Ap 3-4-5
+Trinh Quang Nghi
+Duong Kenh A
+Duong so 5A
+Lien Ap 4 5
+Truong Van Da
+Duong Kenh B
+Duong so 5B
+Lien Ap 5 6
+Vinh Loc
+Duong Kenh C
+Duong so 5C
+Lien Ap 6
+Vinh Loc B
+Duong Kinh 10
+Duong so 6
+Linh Hoa
+Vo Huu Loi
+Duong Kinh 5
+Duong so 6A
+Lo 2
+Vo Van Kiet
+Duong Kinh 7
+Duong so 6B
+Luong Ngang
+Vo Van Van
+Duong Kinh 8
+Duong so 6C
+Mai Ba Huong
+Vuon Thom
+Duong Kinh 9
+Duong so 6D
+Mieu Ong Da
+Xa Hai
+Duong Kinh A
+Duong so 7
+Nguyen Cuu Phu
+Xom Dau
+Duong Kinh C
+Duong so 7A
+Nguyen Dinh Kien
+Xom Giua
+Duong Kinh so 7
+Duong so 8
+Nguyen Huu Tri
+Xom Ho
+Duong Kinh T11
+Duong so 8A
+Nguyen Thi Thap
+Duong Kinh T12
+Duong so 8B
+Nguyen Thi Tho
+Duong Kinh T14
+Duong so 8C
+Nguyen Thi Tu
+District Nha Be
+7
+Nha Be Ward
+Phuoc Kien Ward
+Phuoc Loc Ward
+Nhon Duc Ward
+Phu Xuan Ward
+Long Thoi Ward
+Hiep Phuoc Ward
+34
+Ba Ca
+Huynh Tan Phat
+Nguyen Van Tho
+Bo Tay
+Khu Trung Tam Huyen
+Nhon Duc
+Chanh Hung
+Le Van Luong
+Noi Bo Khu Can Bo Cong Nhan Vien Huyen
+Chanh Hung Noi Dai
+Lien Ap 3-3
+Noi Bo Khu Tai Dinh Cu KCN Hiep Phuoc
+Dang Nhu Lam
+Lien Ap 3-4
+Noi Bo Khu Tai Dinh Cu Khu Vuc Cau Ba Sau
+Dao Su Tich
+Long Thoi
+Noi Bo Khu Tai Dinh Cu Phuoc Kien Giai Doan I
+Dao Tong Nguyen
+Long Thoi - Nhon Duc
+Pham Huu Lau
+Dao Xuan Tich
+Nguyen Binh
+Phan Van Bay
+Duong 20D
+Nguyen Huu Tho
+Phu Xuan
+Duong Cat Loi
+Nguyen Luong Bang
+Van Phat Hung
+Duong so 6
+Nguyen Van Linh
+Huong Lo 34B
+Nguyen Van Tao
+District Can Gio
+7
+Can Thanh Ward
+Binh Khanh Ward
+Tam Thon Hiep Ward
+An Thoi Dong Ward
+Thanh An Ward
+Long Hoa Ward
+Ly Nhon Ward
+30
+An Thoi Dong
+Duong Van Hanh
+Ly Nhon
+Rung Sac
+Ba Xan
+Duyen Hai
+Nguyen Cong Bao
+Tac Xuat
+Ben Do Moi
+Giong Ao
+Nguyen Phan Vinh
+Tam Thon Hiep
+Bui Lam
+Ha Quang Voc
+Nguyen Thi Ne
+Thanh Thoi
+Dang Van Kieu
+Le Hung Yen
+Nguyen Van Manh
+Tran Quang Dao
+Dao Cu
+Le Thuong
+Phan Duc
+Tran Quang Quon
+De Ap Tran Hung Dao
+Le Trong Man
+Phan Trong Tue
+De Ec
+Luong Van Nho
+Quang Xuyen
+
+
