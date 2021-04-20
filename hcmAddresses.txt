@@ -746,22 +746,22 @@ Duong so 494
 Long Thanh
 Go Vap District
 16
-01 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
-16 Ward
-17 Ward
+Ward 01
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
+Ward 16
+Ward 17
 111
 An Hoi
 Duong so 30
@@ -876,26 +876,26 @@ Huynh Khuong An
 Nguyen Van Luong
 Binh Thanh District
 20
-01 Ward
-02 Ward
-03 Ward
-05 Ward
-06 Ward
-07 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
-17 Ward
-19 Ward
-21 Ward
-22 Ward
-24 Ward
-25 Ward
-26 Ward
-27 Ward
-28 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 05
+Ward 06
+Ward 07
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
+Ward 17
+Ward 19
+Ward 21
+Ward 22
+Ward 24
+Ward 25
+Ward 26
+Ward 27
+Ward 28
 122
 Bac Binh
 Duong so 5
@@ -1021,21 +1021,21 @@ Nguyen Cong Hoan
 Phan Huy On
 Tan Binh District
 15
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
 250
 Ap Bac
 Duong C18
@@ -1550,21 +1550,21 @@ Kenh Tan Hoa
 Nguyen Van Duong
 Phu Nhuan District
 15
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
-17 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
+Ward 17
 60
 Bach Dang
 Hoa Hue
@@ -1782,20 +1782,20 @@ Nguyen Don Tiet
 Xuan Thuy
 District 3
 14
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
 58
 Ba Huyen Thanh Quan
 Hoa Hung
@@ -1857,21 +1857,21 @@ Nguyen Gia Thieu
 Rach Bung Binh
 District 10
 15
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
 71
 Ba Hat
 Ho Ba Kien
@@ -1946,22 +1946,22 @@ Lu Gia
 Su Van Hanh
 District 11
 16
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
-16 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
+Ward 16
 80
 Au Co
 Duong so 5A
@@ -2045,21 +2045,21 @@ Pho Co Dieu
 Xom Dat
 District 4
 15
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-08 Ward
-09 Ward
-10 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
-16 Ward
-18 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 08
+Ward 09
+Ward 10
+Ward 12
+Ward 13
+Ward 14
+Ward 15
+Ward 16
+Ward 18
 75
 Ben Van Don
 Duong so 19
@@ -2138,21 +2138,21 @@ Duong so 36
 Duong so 9
 District 5
 15
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
 96
 Tran Tuong Cong
 Tan Hang
@@ -2252,20 +2252,20 @@ Hung Vuong
 Hoc Lac
 District 6
 14
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
 102
 An Duong Vuong
 Duong so 15
@@ -2371,22 +2371,22 @@ Duong so 14
 Duong so 5
 District 8
 16
-01 Ward
-02 Ward
-03 Ward
-04 Ward
-05 Ward
-06 Ward
-07 Ward
-08 Ward
-09 Ward
-10 Ward
-11 Ward
-12 Ward
-13 Ward
-14 Ward
-15 Ward
-16 Ward
+Ward 01
+Ward 02
+Ward 03
+Ward 04
+Ward 05
+Ward 06
+Ward 07
+Ward 08
+Ward 09
+Ward 10
+Ward 11
+Ward 12
+Ward 13
+Ward 14
+Ward 15
+Ward 16
 137
 An Duong Vuong
 Ba To
