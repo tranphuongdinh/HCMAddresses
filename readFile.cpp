@@ -48,7 +48,8 @@ int main() {
 			streets.push_back(streetName);
 		}
 	}
-
+	
+	//print to test
 	for (auto district:districts) {
 		cout << district << "\n";
 	}
