@@ -405,7 +405,7 @@ Thanh Loc 19
 Duong HT 47
 Nguyen Van Luong
 Thanh Loc 26
-District Thu Duc
+Thu Duc District 
 12
 Binh Chieu Ward
 Binh Tho Ward
@@ -744,7 +744,7 @@ Long Son
 Duong so 160
 Duong so 494
 Long Thanh
-District Go Vap
+Go Vap District
 16
 01 Ward
 03 Ward
@@ -874,7 +874,7 @@ Tu Mo
 Duong so 3
 Huynh Khuong An
 Nguyen Van Luong
-District Binh Thanh
+Binh Thanh District
 20
 01 Ward
 02 Ward
@@ -1019,7 +1019,7 @@ Phan Dinh Phung
 Duong so 48
 Nguyen Cong Hoan
 Phan Huy On
-District Tan Binh
+Tan Binh District
 15
 01 Ward
 02 Ward
@@ -1287,7 +1287,7 @@ Son Hung
 Duong C12
 Long Hung
 Song Da
-District Tan Phu
+Tan Phu District
 11
 Tan Son Nhi Ward
 Tan Thanh Ward
@@ -1548,7 +1548,7 @@ Nguyen Van Huyen
 Duong CN11
 Kenh Tan Hoa
 Nguyen Van Duong
-District Phu Nhuan
+Phu Nhuan District
 15
 01 Ward
 02 Ward
@@ -2525,7 +2525,7 @@ Nguyen Nhuoc Thi
 Cao Lo
 Duong so 33
 Nguyen Quyen
-District Binh Tan
+Binh Tan District
 10
 Binh Hung Hoa Ward
 Binh Hung Hoa A Ward
@@ -2983,7 +2983,7 @@ Xa lo Bac Nam
 Duong so 19
 Duong so 63
 Nguyen Huu Tho
-District Cu Chi
+Cu Chi District
 21
 Cu Chi Ward
 Phu My Hung Ward
@@ -3131,7 +3131,7 @@ Do Quang Co
 Le Minh Nhut
 Nhu Tien Hien
 Vuon Thuoc
-District Hoc Mon
+Hoc Mon District
 12
 Hoc Mon Ward
 Tan Hiep Ward
@@ -3328,7 +3328,7 @@ Xuan Thoi Thuong 9
 Duong so 8
 Ong Nuoc
 Tuyen ap 1
-District Binh Chanh
+Binh Chanh District
 16
 Tan Tuc Ward
 Pham Van Hai Ward
@@ -3552,7 +3552,7 @@ Nguyen Thi Tho
 Duong Kinh T14
 Duong so 8C
 Nguyen Thi Tu
-District Nha Be
+Nha Be District
 7
 Nha Be Ward
 Phuoc Kien Ward
@@ -3596,7 +3596,7 @@ Duong so 6
 Nguyen Van Linh
 Huong Lo 34B
 Nguyen Van Tao
-District Can Gio
+Can Gio District
 7
 Can Thanh Ward
 Binh Khanh Ward
